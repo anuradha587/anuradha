@@ -1,0 +1,53 @@
+{"details":{
+  "image":"nani.jpg",
+  "name":"NARENDRA GINJUPALLI",
+  "phoneno":"+91-9010229999",
+  "emailid":"narendraginjupalli51@gmail.com",
+  "Address":"kanchikacherla"
+},
+"career":{
+  "info":"to pusive a callenge and be apart of progressiveorganization that gives a scope to enhance my knowledgeand utilizing the skills towards growth of the organization"
+},
+"education":[{
+  "qualification":"B.tech",
+  "inistitute":"mic college",
+  "year":"2016-2020",
+  "percentage":"7.5"
+},
+{
+  "qualification":"inermediate",
+  "inistitute":"sai siidhartha",
+  "year":"2014-2016",
+  "percentage":"92"
+},
+{
+  "qualification":"ssc",
+  "inistitute":"gowtham public school",
+  "year":"2013-2014",
+  "percentage":"9.0"
+}
+],
+"skills":[{
+  "title":"programming languages",
+  "info":["c,c++,java,R,python"]
+},
+{
+  "title":"databases",
+  "info":["oracle,sql"]
+},
+{
+  "title":"operating systems",
+  "info":["unix,windows"]
+}
+],
+"achivements":[{
+  "title":"technical achivements",
+  "info":["won 1st prize in prasentation on BIGDATA,won 3rd prize in project expo"]
+},
+{
+"title":"non technical achivements",
+"info":["participated in amaravathi marathan"]
+}
+]
+
+}

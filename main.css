@@ -1,0 +1,47 @@
+.parent{
+  border:2px solid red;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.childone{
+  border: 2px solid brown;
+  background-color: skyblue;
+  padding: 2%;
+  margin: 2%;
+  width: 40%;
+}.childtwo{
+  border: 2px solid blue;
+  background-color:pink;
+  padding: 2%;
+  margin: 2%;
+  width: 50%;
+}
+.childone img{
+  width:100%;
+  border-radius: 50%;
+  display: block;
+margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  color:red;
+}
+table{
+  color:brown;
+  font-size: 20px;
+
+}
+p{
+  color:green;
+  font-stretch: extra-condensed;
+}
+h4{
+  color:indigo;
+  font-size::30px;
+}
+h3
+{
+  color:brown;
+  font-size: 20px;
+}

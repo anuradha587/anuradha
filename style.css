@@ -1,0 +1,142 @@
+.main{
+  border:2.5px solid red;
+  padding:1%;
+  display:flex;
+  flex-direction: row;
+  width: 100%;
+}
+h2{
+  color:red;
+}
+h4{
+  color:blue;
+}
+a{
+  color:brown;
+  font-size: 40px;
+  word-wrap: break-word;
+}
+.left{
+border: 2px solid blue;
+  padding: 3%;
+  margin: 2%;
+  width: 50%;
+  text-align: center;
+}
+#name{
+  color:red;
+  font-size: 20px;
+  font-style:normal;
+}
+.left img{
+  width:70%;
+  border-radius: 50%;
+  border: 2px solid green;
+  display: block;
+margin-left: auto;
+  margin-right: auto;
+}
+.right{
+border: 2px solid green;
+  padding:2%;
+  margin: 2%;
+  width: 50%;
+}
+@media only screen and (min-width:481px) and (max-width:768px){
+  .main{
+    border:2.5px solid red;
+    padding:1%;
+    display:flex;
+    flex-direction:row;
+    width: 100%;
+  }
+  h2{
+    color:red;
+  }
+  h4{
+    color:blue;
+  }
+  a{
+    color:brown;
+    font-size: 40px;
+    word-wrap: break-word;
+  }
+  .left{
+  border: 2px solid blue;
+    padding: 3%;
+    margin: 2%;
+    width: 50%;
+    background-color:pink;
+  }
+  #name{
+    color:red;
+    font-size: 20px;
+    font-style:normal;
+  }
+  .table1{
+    width: 90%;
+    overflow-x: auto;
+  }
+  .left img{
+    width:70%;
+    border-radius: 50%;
+    border: 2px solid green;
+    display: block;
+  margin-left: auto;
+    margin-right: auto;
+  }
+  .right{
+  border: 2px solid green;
+    padding:2%;
+    margin: 2%;
+    width: 50%;
+    background-color: pink;
+  }
+}
+@media only screen and (min-width:0px) and (max-width:480px){
+  .main{
+    border:2.5px solid red;
+    padding:1%;
+    display:flex;
+    flex-direction:column;
+    width: 100%
+  }
+  h2{
+    color:red;
+  }
+  h4{
+    color:blue;
+  }
+  a{
+    color:brown;
+    font-size: 40px;
+    word-wrap: break-word;
+  }
+  .left{
+  border: 2px solid blue;
+    padding: 3%;
+    margin: 2%;
+    width: 90%;
+    background-color:skyblue;
+  }
+  #name{
+    color:red;
+    font-size: 20px;
+    font-style:normal;
+  }
+  .left img{
+    width:70%;
+    border-radius: 50%;
+    border: 2px solid green;
+    display: block;
+  margin-left: auto;
+    margin-right: auto;
+  }
+  .right{
+  border: 2px solid green;
+    padding:2%;
+    margin: 2%;
+    width: 90%;
+    background-color: skyblue;
+  }
+}
